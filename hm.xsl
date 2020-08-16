@@ -9,7 +9,7 @@
       <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="noodel.css" />
-        <link rel="stylesheet" href="hackermanifesto.css" />
+        <link rel="stylesheet" href="hm.css" />
       </head>
 
       <body>
