@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "xslt3 -xsl:hackermanifesto.xsl -s:hackermanifesto.xml -o:index.html -t"
+  },
+  "dependencies": {
+    "xslt3": "^2.0.2"
+  }
+}
