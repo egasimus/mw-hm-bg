@@ -3,6 +3,6 @@
     "build": "xslt3 -xsl:hm.xsl -s:hm.xml -o:index.html -t"
   },
   "dependencies": {
-    "xslt3": "^2.0.2"
+    "xslt3": "^2.5.0"
   }
 }
